@@ -1,5 +1,3 @@
-# movie_app_screen
-
 A new Flutter project.
 
 ## Getting Started
@@ -14,7 +12,7 @@ This project is a starting point for a Flutter application.
 </h3>
 
 ### Screenshots     
-<img src="assets/screenshots/MovieApp_1.jpg" width="29%" /> <img src="assets/screenshots/MovieApp_2.jpg" width="29%" /> <img src="assets/screenshots/MovieApp_Screenrecord.gif" width="29%" />
+<img src="assets/screenshots/MovieApp_1.jpg" width="25%" /> <img src="assets/screenshots/MovieApp_2.jpg" width="25%" /> <img src="assets/screenshots/MovieApp_Screenrecord.gif" width="25%" />
 ## :rocket: Technologies
 
 The following tools were used in this project:
